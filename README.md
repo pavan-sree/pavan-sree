@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pavan-sreekumar-a34351253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-sreekumar-a34351253/" height="30" width="40" /></a>
+  <a href="https://pavan-sree.github.io/myofficialrep/" target="blank"><img align="center" src="https://i.pinimg.com/564x/93/2b/57/932b57cd9b201a333b0cec14075563f0.jpg" alt="https://pavan-sree.github.io/myofficialrep/" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
